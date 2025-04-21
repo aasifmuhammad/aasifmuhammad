@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aasifmuhammad
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on professionals
 - 📫 How to reach me simple message me
 - 😄 Pronouns: ...
