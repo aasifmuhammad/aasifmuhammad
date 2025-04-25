@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on professionals
 - 📫 How to reach me simple message me
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... Explore New Things.
 
 <!---
 aasifmuhammad/aasifmuhammad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
